@@ -6,7 +6,7 @@
 `Learning Center Home <http://learning.cyverse.org/>`_
 
 
-STYLE TIPS - DELETE THIS PAGE BEFORE PUBLISHING
+ReStructured Text Examples
 --------------------------------------------------
 
     .. tip::
@@ -17,8 +17,8 @@ STYLE TIPS - DELETE THIS PAGE BEFORE PUBLISHING
 
 .. #### Comment: short description
 
-Many of the examples Writing your documentation using sample data
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Writing your documentation using sample data
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Where possible, you want write documentation instructions to be general enough
 for users can follow along with their own data. To help do this, you can use
